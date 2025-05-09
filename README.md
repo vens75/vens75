@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vens75
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning programing in C# and Python.
-- 💞️ I’m looking to collaborate on soon.
+- 💞️ I’m looking to collaborate on ... soon ???.
 - 📫 How to reach me and.wasowicz@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: It's never to late learn something new...
